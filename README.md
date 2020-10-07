@@ -4,8 +4,8 @@ CMake C++ project template.
 
 ## Requirements
 
-- C compiler
-- CMake 3.0
+- C++ compiler
+- CMake 3.0 or greater
 
 ## Building
 
@@ -18,4 +18,4 @@ make test
 
 ## License
 
-Apache-2.0
+The Unlicense (public domain)
